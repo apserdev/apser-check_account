@@ -1,0 +1,9 @@
+# Kiro spec files
+.kiro/
+
+# Bash version (superseded by Python)
+check_account.sh
+
+# Python
+__pycache__/
+*.pyc

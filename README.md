@@ -4,7 +4,11 @@ A Python script designed to run in AWS CloudShell that gathers key account infor
 
 ## Usage
 
+Open AWS CloudShell and paste the following commands:
+
 ```bash
+git clone https://github.com/apserdev/apser-check_account.git
+cd apser-check_account
 python3 check_account.py
 ```
 
